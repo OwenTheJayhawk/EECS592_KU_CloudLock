@@ -12,6 +12,17 @@ This project demonstrates secure system design principles, client-side cryptogra
 
 ---
 
+## Contributors
+
+Wesley McDougal
+
+Jace Keagy
+
+Matthew Nash
+
+Owen Deines
+---
+
 ## 🚀 Features
 
 - 🔐 Zero-knowledge encryption (client-side cryptography)
