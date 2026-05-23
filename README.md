@@ -1,3 +1,6 @@
+
+
+
 # CloudLock
 
 <p align="center">
@@ -9,6 +12,8 @@
 CloudLock is a secure cloud-based password manager built with React, Python, SQL, and AWS. It enforces a zero-knowledge architecture, ensuring that all encryption and decryption occur client-side. The server never has access to passwords or master keys.
 
 This project demonstrates secure system design principles, client-side cryptography, and modern cloud deployment practices.
+
+https://github.com/user-attachments/assets/7493411e-98ce-467d-be16-b63c8847825e
 
 ---
 
