@@ -14,7 +14,7 @@ This project demonstrates secure system design principles, client-side cryptogra
 
 ## Contributors
 
-Wesley McDougal
+[Wesley McDougal](https://github.com/wesmcdougal)
 
 Jace Keagy
 
