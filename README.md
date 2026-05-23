@@ -16,11 +16,11 @@ This project demonstrates secure system design principles, client-side cryptogra
 
 [Wesley McDougal](https://github.com/wesmcdougal)
 
-Jace Keagy
+[Jace Keagy](https://github.com/jacekeagy)
 
-Matthew Nash
+[Matthew Nash](https://github.com/m518n748)
 
-Owen Deines
+[Owen Deines](https://github.com/OwenTheJayhawk)
 
 ---
 
