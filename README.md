@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/7493411e-98ce-467d-be16-b63c8847825e
 
 ## 🔒 Security Model
 
-VaultZero follows a zero-knowledge security model:
+CloudLock follows a zero-knowledge security model:
 - All sensitive data is encrypted before transmission.
 - The backend stores only encrypted data.
 - The server cannot decrypt user credentials.
