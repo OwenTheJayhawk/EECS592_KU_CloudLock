@@ -33,7 +33,6 @@ https://github.com/user-attachments/assets/7493411e-98ce-467d-be16-b63c8847825e
 
 - 🔐 Zero-knowledge encryption (client-side cryptography)
 - 🔑 Secure password generation
-- 🧬 Biometric multi-factor authentication (WebAuthn)
 - 📊 Audit logging and suspicious activity detection
 - 🖥️ Device-based login recognition
 - 🚫 Account lockout protection
